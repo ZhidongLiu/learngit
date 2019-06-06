@@ -1,1 +1,1 @@
-print: exam wq
+exam
