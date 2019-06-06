@@ -1,1 +1,1 @@
-oprin examt
+exam
