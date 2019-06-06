@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 Fast forward.
 bug
+Configuration is changed
